@@ -222,6 +222,7 @@ font-family:Arial;
     box-shadow: 1px 1px 2px #4d4d4d;
 }
 .headnew{
+
     border-bottom: 1px solid grey;
     box-shadow: 0px -2px 2px grey;
     background-color: #f7f3f0;
@@ -234,6 +235,7 @@ font-family:Arial;
 }
 
 .news{
+	width: 25%;
 text-align: center;
     display: flex;
    
